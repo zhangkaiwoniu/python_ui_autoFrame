@@ -1,0 +1,228 @@
+[2019-11-29 19:48:26,268] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 创建chrome浏览器
+[2019-11-29 20:09:45,933] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 创建chrome浏览器
+[2019-11-29 20:10:01,398] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-29 20:10:02,783] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-29 20:10:03,159] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-29 20:10:05,100] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-29 20:10:05,461] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-29 20:10:05,874] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-29 20:17:54,280] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 创建chrome浏览器
+[2019-11-29 20:18:10,201] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-29 20:18:10,724] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-29 20:18:11,146] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-29 20:18:11,294] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != <selenium.webdriver.chrome.webdriver.WebD[46 chars]30")> : 管理系统首页
+[2019-11-29 20:18:12,435] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-29 20:18:12,770] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-29 20:18:13,111] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-29 20:18:13,252] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != <selenium.webdriver.chrome.webdriver.WebD[46 chars]30")> : 管理系统
+[2019-11-29 20:22:44,870] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 创建chrome浏览器
+[2019-11-29 20:23:00,423] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-29 20:23:02,260] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-29 20:23:02,758] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-29 20:23:03,567] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-29 20:23:04,742] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-29 20:23:05,065] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-29 20:23:05,505] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 08:56:54,439] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----开始执行测试-----
+[2019-11-30 08:57:20,590] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 创建chrome浏览器
+[2019-11-30 08:57:24,854] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 08:57:38,376] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 08:57:44,212] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 08:57:44,676] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 08:57:44,934] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-30 08:57:46,499] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 08:57:47,131] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 08:57:47,295] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 08:57:47,635] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 08:57:48,016] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 08:57:48,113] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-30 08:57:48,668] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 08:57:49,317] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 08:57:49,485] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 08:57:49,859] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 08:57:50,250] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 08:57:50,342] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 08:57:54,279] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----测试结束-----
+[2019-11-30 09:17:07,380] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----开始执行测试-----
+[2019-11-30 09:17:23,108] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 创建chrome浏览器
+[2019-11-30 09:17:27,287] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 09:17:38,866] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 09:17:42,966] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 09:17:43,432] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 09:17:43,799] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-30 09:17:45,164] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 09:17:45,482] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 09:17:45,751] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 09:17:46,193] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 09:17:46,591] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 09:17:46,697] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 09:17:50,409] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----测试结束-----
+[2019-11-30 14:24:48,661] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----开始执行测试-----
+[2019-11-30 14:25:05,133] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 创建chrome浏览器
+[2019-11-30 14:25:09,421] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:25:20,828] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:25:22,924] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:25:23,326] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:25:23,694] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-30 14:25:25,608] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:25:26,138] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:25:26,539] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:25:26,841] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:25:27,258] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:25:27,377] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-30 14:25:27,988] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:25:28,350] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:25:28,512] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:25:28,872] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:25:29,244] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:25:29,360] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:25:33,363] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----测试结束-----
+[2019-11-30 14:31:23,002] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----开始执行测试-----
+[2019-11-30 14:31:38,896] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 创建chrome浏览器
+[2019-11-30 14:31:43,251] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:31:54,645] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:31:56,225] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:31:56,672] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:31:56,860] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-30 14:31:57,798] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:31:58,047] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:31:58,218] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:31:58,556] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:31:58,896] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:31:59,051] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-30 14:31:59,611] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:31:59,668] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:31:59,797] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:32:00,155] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:32:00,555] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:32:00,654] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:32:03,518] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----测试结束-----
+[2019-11-30 14:33:26,949] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----开始执行测试-----
+[2019-11-30 14:33:33,698] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 创建chrome浏览器
+[2019-11-30 14:33:37,860] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:33:49,489] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:33:50,478] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:33:50,869] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:33:51,183] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-30 14:33:52,274] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:33:52,626] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:33:52,827] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:33:53,263] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:33:53,582] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:33:53,716] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-30 14:33:54,252] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:33:54,314] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:33:54,468] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:33:54,798] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:33:55,110] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:33:55,233] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:33:57,831] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----测试结束-----
+[2019-11-30 14:35:11,289] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----开始执行测试-----
+[2019-11-30 14:35:19,804] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 创建chrome浏览器
+[2019-11-30 14:35:23,963] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:35:35,294] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:35:36,366] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:35:36,743] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:35:37,043] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-30 14:35:37,907] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:35:38,174] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:35:38,382] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:35:38,735] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:35:39,108] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:35:39,237] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-30 14:35:39,850] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:35:39,915] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:35:40,082] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:35:40,413] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:35:40,736] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:35:40,866] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:35:44,843] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----测试结束-----
+[2019-11-30 14:40:56,966] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----开始执行测试-----
+[2019-11-30 14:41:05,549] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 创建chrome浏览器
+[2019-11-30 14:41:09,955] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:41:21,459] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入admin
+[2019-11-30 14:41:22,120] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入admin123
+[2019-11-30 14:41:22,466] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:41:22,654] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-30 14:41:32,467] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:41:32,679] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:41:32,898] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入admin
+[2019-11-30 14:41:33,139] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入admin123
+[2019-11-30 14:41:33,448] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:41:33,633] [ERROR] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : erro:58 , 断言失败'管理系统' != '管理系统首页'
+- 管理系统
++ 管理系统首页
+?     ++
+ : 正常登录异常
+[2019-11-30 14:41:34,654] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:41:34,708] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:41:34,916] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:41:35,230] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:41:35,576] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:41:35,734] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:41:40,097] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----测试结束-----
+[2019-11-30 14:46:01,202] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----开始执行测试-----
+[2019-11-30 14:46:12,292] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 创建chrome浏览器
+[2019-11-30 14:46:16,698] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:46:28,064] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入admin
+[2019-11-30 14:46:29,187] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入admin123
+[2019-11-30 14:46:29,532] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:46:39,641] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:46:40,455] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 打开http://129.211.69.116:4070/login
+[2019-11-30 14:46:40,669] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', 'input[name="username"] ')上输入administrator
+[2019-11-30 14:46:40,914] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 在('css selector', '.pword')上输入administrator123
+[2019-11-30 14:46:41,105] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 点击('id', 'btnSubmit')元素
+[2019-11-30 14:46:41,205] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , 清除cookies
+[2019-11-30 14:46:44,224] [INFO] [F:\Python_Project\ZK_UI_automation_frame\util\logger.py : info:49 , -----测试结束-----
